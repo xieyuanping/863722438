@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="button1">One,One</string>
+    <string name="button2">Two,One</string>
 </resources>

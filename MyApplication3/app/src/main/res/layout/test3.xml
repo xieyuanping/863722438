@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:shrinkColumns="0">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#F3ECEC"
+            android:gravity="left"
+
+            android:text="open...                                                               ctrl+o">
+
+        </Button>
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="save...                                                               ctrl+s"
+            android:gravity="left"
+            android:layout_marginTop="-11dp"
+            >
+
+        </Button>
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="save As...                                                       ctrl+shift+s"
+            android:gravity="left"
+            android:layout_marginTop="-11dp"
+            >
+
+        </Button>
+        <View  android:layout_height="2px"
+            android:layout_width="match_parent"
+            android:background="#000000"
+            android:layout_marginTop="-3dp"
+            ></View>
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Import..."
+            android:gravity="left"
+            android:layout_marginTop="-4dp"
+            >
+        </Button>
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Export...                                                              ctrl+e"
+            android:gravity="left"
+            android:layout_marginTop="-11dp"
+            >
+        </Button>
+        <View  android:layout_height="2px"
+            android:layout_width="match_parent"
+            android:background="#000000"
+            android:layout_marginTop="-3dp"
+            ></View>
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="quilt..."
+            android:gravity="left"
+            android:layout_marginTop="-4dp"
+            >
+        </Button>
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
