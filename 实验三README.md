@@ -107,15 +107,15 @@ textview.xml
 ```
 
 主界面图片
-![image]()
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE1.png)
 
 
 点击后会变色
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE2.png)
 
 
 点击后下方会出现含该名字的弹窗
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE3.png)
 
 
 二、
@@ -237,15 +237,15 @@ android:layout_height="match_parent">
 ```
 
 主界面有一按钮
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE4.png)
 
 
 点击后进入对话框
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE5.png)
 
 
 点击后会出现输入键盘
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE6.png)
 
 
 
@@ -355,19 +355,20 @@ layout.xml
 ```
 
 主界面
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE7.png)
 
 
 点击菜单后出现选项菜单
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE8.png)
 
 
 点击字体大小
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE9.png)
 
 
 点击普通菜单项后下方出现对话框
-
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE10.png)
 
 
 点击字体颜色
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE11.png)
