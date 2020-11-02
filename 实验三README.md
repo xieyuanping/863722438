@@ -525,8 +525,10 @@ menu.xml
 
 
 界面：
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE12.png)
 
 
 点击后变色，上方出现选中：
+![image](https://github.com/xieyuanping/863722438/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE13.png)
 
 
